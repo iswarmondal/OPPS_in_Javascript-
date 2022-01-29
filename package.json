@@ -1,0 +1,19 @@
+{
+  "name": "opps_in_javascript-",
+  "version": "1.0.0",
+  "description": "This is the repo where I learned Object Oriented Programming in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iswarmondal/OPPS_in_Javascript-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iswarmondal/OPPS_in_Javascript-/issues"
+  },
+  "homepage": "https://github.com/iswarmondal/OPPS_in_Javascript-#readme"
+}
